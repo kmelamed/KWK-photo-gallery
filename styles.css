@@ -29,7 +29,7 @@ img {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
   img {
     width: 90%;
     margin-top: 2%;
