@@ -16,6 +16,10 @@ img {
   margin: 1%
 }
 
+img:hover {
+  box-shadow: 5px 10px 18px hotpink;
+}
+
 .image-holder {
   display: flex;
   flex-direction: row;
